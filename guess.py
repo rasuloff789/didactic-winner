@@ -5,5 +5,5 @@ guess = int(input("guess a number between 0 and 10: "))
 
 while True:
     if n == guess:
-        print("Topdingingiz")
+        print("Topdingingiz :")
         break
