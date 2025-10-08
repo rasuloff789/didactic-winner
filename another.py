@@ -10,7 +10,8 @@ while True:
         break
     else:
         guesses += 1   
-    print(3)    
+
+    print("Xato, qayta urining!")     
     if guesses >= 3: 
         print("Yutqazdingiz!")        
         break
