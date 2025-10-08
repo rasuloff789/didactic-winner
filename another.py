@@ -9,9 +9,9 @@ while True:
         print("Topdingingiz!")
         break
     else:
-        guesses += 1   
+        guesses += 1
 
-    print("Xato, qayta urining!")     
-    if guesses >= 3: 
-        print("Yutqazdingiz!")        
+    print("Xato, qayta urining!")
+    if guesses >= 3:
+        print("Yutqazdingiz!")
         break
